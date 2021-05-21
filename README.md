@@ -1,2 +1,3 @@
-# PYTHON
-Nesse repositório irei colocar alguns projetos de Python.
+# PYTHON 
+*Nesse repositório irei colocar alguns projetos de Python.*
+<img src="logo.png">
